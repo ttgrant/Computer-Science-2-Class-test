@@ -26,6 +26,7 @@ void foo(Base& base);
 
 int main()
 {
+	int nerd = 1;
   Base		base;
   Base		*base_ptr;
   Derived1 	derived1;
